@@ -12,3 +12,6 @@ Agency-wide scorecards were shown to executive leadership on a monthly basis. Pr
 
 ## <ins>Acknowledgements </ins>
 Team members at Thompson CFF in Finance, Clinical, IT, and Development departments provided vital contributions to monthly data gathering and were essential to achieving monthly scorecard presentation goals. 
+
+<ins> </ins>
+All data has either been erased or randomly genererated to protect the privacy of the organization. 
