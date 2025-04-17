@@ -1,3 +1,5 @@
+# <ins> Qualitative Research </ins>
+
 This is a collection of Qualitative research projects. 
 
 **CARE model:** A behavioral health facility partnered with Cornell University's CARE program to provide higher quality and more effective therapeutic care. 
@@ -17,3 +19,6 @@ The article **Creating a Culture of Committed Millennials** was published in the
 
 **OB1 and OB2:** A mid-size cable company experienced team interaction challenges due to natural employee changes. I interviewed each employee to understand the systemic issues that I could report to executive leadership.
 I then created a powerpoint to present to employees to help them see the challenges and changes more clearly, and to offer information about how they can improve their environment for themselves. 
+
+
+**Skills:** Interviewing, Observation, Pattern-Finding, Knowledge of Qualitative Methodology
