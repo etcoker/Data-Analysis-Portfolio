@@ -11,7 +11,7 @@ These tracking sheets were created to ensure that nothing was overlooked.
 **Outputs:** As the tracking sheet is filled out, the numbers would turn red or green to help draw attention to problem areas. \
 The main "Totals" pages were also color-coded and would reflect the averaged numbers indicating compliance.
 
-##<ins> Acknowledgements</ins>
+## <ins> Acknowledgements </ins>
 Team members at New Hope Carolinas, Thompson CFF, Miracle House, and Envesti Solutions who utilized the forms and provided valuable feedback. 
 
 All numbers have been erased or changed to protect privacy. 
