@@ -5,7 +5,7 @@
 **Description:** PetTech Inc is a company that makes consumer products for household pets. \
 Problem: Lately, there have been a lot of complaints from employees who feel like they're struggling to do their 
 jobs well and they're unhappy at the company. As a result, 85% of quotas are on track to be late or
- missed completely and attrition rates have increased by 45% since the year started. \
+ missed completely and attrition rates have increased by 45% since the year started. 
 
 **Tools:** PowerBI
 
