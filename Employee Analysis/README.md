@@ -8,7 +8,7 @@ Using Cramer's V and Cohen's d, the top three most likely causes for the attriti
 
 **Tools:** PowerBI, Python
 
-**Skills:** Statistical Assessment, Python Programming, Data Visualization.   
+**Skills:** Statistical Assessment, Python Programming, Data Visualization, Logistic Regression.   
 
 **Outputs:** Technical Presentation. 
 
