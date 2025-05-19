@@ -5,7 +5,7 @@ I love data analysis because we can use it to help improve organizational functi
 My research has centered on the intersection of using data to understand and improve functioning, and my clients range from CEOs and business owners to front line workers.\
 I utilize Excel, Tableau, PowerBI, SQL, and Python. I know how to create organization-specific assessments as well as to deliver, interpret, analyze, and present from validated instruments. 
 
-All data analysis projects are listed in the folders above, but noteworthy projects are listed below. 
+All data analysis projects are listed in the folders above, but some of the noteworthy projects are listed below. 
 
 # <ins> Noteworthy Projects: </ins>
 
