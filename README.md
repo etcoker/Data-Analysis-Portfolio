@@ -7,7 +7,7 @@ I utilize Excel, Tableau, PowerBI, SQL, and Python. I know how to create organiz
 
 # <ins> Noteworthy Projects: </ins>
 
-## Employee Attrition Analysis [Link to Technical Report] (#https://github.com/etcoker/Data-Analysis-Portfolio/blob/main/Employee%20Analysis/Attrition%20Analysis%20-%20Technical%20Report.pdf)
+## Employee Attrition Analysis [Link to Technical Report](/Employee%20Analysis/Attrition%20Analysis%20-%20Technical%20Report.pdf)
 
 **Description:** According to HR data, KBK Electronics has hit a 24% attrition rate. A logistic regression was performed to predict the future attrition rates among multiple variables.\
 Chi-square assessments were performed to find the relationship between attrition and categorical variables, and t-tests were performed for the relationship between attrition and continuous variables. \
