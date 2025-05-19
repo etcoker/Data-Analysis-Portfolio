@@ -1,5 +1,17 @@
 # <ins> Employee Analysis </ins>
 
+## Employee Attrition Analysis
+
+**Description:** According to HR data, KBK Electronics has hit a 24% attrition rate. A logistic regression was performed to predict the future attrition rates among multiple variables.\
+Chi-square assessments were performed to find the relationship between attrition and categorical variables, and t-tests were performed for the relationship between attrition and continuous variables. \
+Using Cramer's V and Cohen's d, the top three most likely causes for the attrition were identified. 
+
+**Tools:** PowerBI, Python
+
+**Skills:** Statistical Assessment, Python Programming, Data Visualization.   
+
+**Outputs:** Technical Presentation. 
+
 ## PetTech Employee Experience
 
 **Description:** PetTech Inc is a company that makes consumer products for household pets. \
