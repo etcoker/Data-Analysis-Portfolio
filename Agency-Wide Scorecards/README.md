@@ -2,7 +2,8 @@
 
 **Description:** For Thompson CFF, I overhauled the data reporting system for more at-a-glance storytelling. The data collection was revamped to be minimally disruptive to program functioning. Data analysis was streamlined. \
 The scorecards were created to show business analysis, including KPIS and financial markers, as well as outcomes pertinent to funding, operational decisions, and accreditation. \
-Agency-wide scorecards were shown to executive leadership on a monthly basis. Program or Line Of Business scorecards were shown to relevant stakeholders. Further micro views were provided to specific employees or managers for daily decision-making. 
+Agency-wide scorecards were shown to executive leadership on a monthly basis. Program or Line Of Business scorecards were shown to relevant stakeholders. Further micro views were provided to specific employees or managers for daily decision-making.\
+This project was comprehensive: I developed the data collection devices, trained managers to train staff for how to enter information, gathered and analyzed the data, and then showed it via the scorecards and other pertinent communications. 
 
 **Tools:** SurveyMonkey Enterprise, Excel
 
