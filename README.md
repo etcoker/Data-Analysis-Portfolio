@@ -9,8 +9,8 @@ All data analysis projects are listed in the folders above, but some of the note
 
 # <ins> Noteworthy Projects: </ins>
 
-## Employee Attrition Analysis - [Link to Technical Report](/Employee%20Analysis/Attrition%20Analysis%20-%20Technical%20Report.pdf)
-[Link to Python Code](/Employee%20Analysis/Attrition%20Analysis%20Python%20Code.pdf)
+## Employee Attrition Analysis - [Link to Technical Report](/Employee%20Analysis/Attrition%20Analysis%20-%20Technical%20Report.pdf) / [Link to Python Code](/Employee%20Analysis/Attrition%20Analysis%20Python%20Code.pdf)
+
 **Description:** According to HR data, KBK Electronics has hit a 24% attrition rate. A logistic regression was performed to predict the future attrition rates among multiple variables.\
 Chi-square assessments were performed to find the relationship between attrition and categorical variables, and t-tests were performed for the relationship between attrition and continuous variables. \
 Using Cramer's V and Cohen's d, the top three most likely causes for the attrition were identified. 
