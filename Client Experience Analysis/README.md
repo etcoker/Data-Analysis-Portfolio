@@ -1,6 +1,6 @@
 ## <ins> Client Experience Analysis </ins>
 
-**Description:** A holistic wellbeing practitioner requested dashboards for better understanding her clients. /
+**Description:** A holistic wellbeing practitioner requested dashboards for better understanding her clients. 
 These are the proposed dashboards, which she ended up using. 
 
 **Tools:** Excel
