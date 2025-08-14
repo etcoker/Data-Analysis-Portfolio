@@ -17,8 +17,9 @@ The evaluation from employees reported a perception of 42% improvement in cultur
 **INSIGHTS Business Journal Article:** I wrote an article based on my dissertation and provided an executive presentation ti the Think2Perform Research Insitute's board members. 
 The article **Creating a Culture of Committed Millennials** was published in their business magazine and can also be found at https://www.t2pri.org/wp-content/uploads/2018/11/E.COKER-ARTICLE.sngl-pgs.pdf
 
-**OB1 and OB2:** A mid-size cable company experienced team interaction challenges due to natural employee changes. I interviewed each employee to understand the systemic issues that I could report to executive leadership.
+**Employee Intervention:** A mid-size cable company experienced team interaction challenges due to natural employee changes. I interviewed each employee to understand the systemic issues that I could report to executive leadership.
 I then created a powerpoint to present to employees to help them see the challenges and changes more clearly, and to offer information about how they can improve their environment for themselves. 
 
 
 **Skills:** Interviewing, Observation, Pattern-Finding, Knowledge of Qualitative Methodology
+
